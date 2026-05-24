@@ -1,0 +1,4 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://marquemediastrategies-glitch.github.io/dentalba-multilingual-platform/sitemap.xml
